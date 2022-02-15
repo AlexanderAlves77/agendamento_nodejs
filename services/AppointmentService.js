@@ -82,8 +82,8 @@ class AppointmentService {
             host: "smtp.mailtrap.io",
             port: 25,
             auth: {
-                user: "70366d44e43424",
-                pass: "b4f77ce583ac92"
+                user: "",
+                pass: ""
             } 
         })
 
